@@ -14,13 +14,17 @@ The below visual is an Entity Relationship Diagram used to demonstrate the relat
 Retiring Employees:
 
 In the first analysis, we determined how many employees were born between 1952 and 1955 and are therefore, nearing retirement age. When running the code, we can see that:
+
 -Over 72,000 employees will be retiring in the next few years.
+
 -Of the employees retiring, many hold senior level positions, with “senior engineer” and “senior staff” being the job titles with the highest rate of upcoming retirement.
 
 Mentorship Program
 
 The second analysis is used to determine which employees are eligible to participate in the mentorship program. When executing this code, it is shown that:
+
 -1,549 employees are eligible for this program.
+
 -The majority of the eligible employees also hold a senior level position.
 
 Summary
