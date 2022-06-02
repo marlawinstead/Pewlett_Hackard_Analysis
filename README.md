@@ -32,3 +32,10 @@ Summary
 In this analysis, we were tasked with answering two questions: How many roles will need to be filled as the "silver tsunami" begins to make an impact? Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 There are 72,458 job openings that will need to be filled in the next few years. There are 1,549 employees that are mentorship eligible, which is not enough employees in each department able to help mentor the next generation.
+
+One thing to note also, is that of the 72,458 job that will become available in the next few years, many of them are high ranking positions. The “Senior Staff” and “Senior Engineer” positions alone make up 50,842 of the job openings, which is over 70%. This is most likely because long-standing employees tend to get promoted as they remain within the company and older persons are more likely to hold these senior level jobs. 
+
+<img width="484" alt="Screen Shot 2022-06-01 at 8 26 15 PM" src="https://user-images.githubusercontent.com/100978922/171524377-f893590a-247e-4da4-b843-ee1325e3fa13.png">
+
+One way to address the shortage of mentors is to expand the pool of participants to choose from. Currently, there are 1,549 employees eligible. However, this is just from a selection of employees born during the year 1965. If we expand this to include employees born in 1966 and even 1967, the number of employees would increase, allowing for a much smoother and manageable transition during the expected high turnover.
+
